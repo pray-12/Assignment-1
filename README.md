@@ -80,3 +80,7 @@ src/
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
+
+## Hosted Site
+
+https://counter-application-assignment-1.netlify.app/
